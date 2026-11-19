@@ -4,7 +4,7 @@ import React from 'react'
 import BitcoinLogo from '../assets/dashboard-images/Bitcoin.png'
 import EthereumLogo from '../assets/dashboard-images/Etherium.png'
 import LitecoinLogo from '../assets/dashboard-images/Litecoin.png'
-import CardanoLogo from '../assets/dashboard-images/Cardano.png'
+import CardanoLogo from '../assets/dashboard-images/cardano.png'
 
 
 function Dashboard() {

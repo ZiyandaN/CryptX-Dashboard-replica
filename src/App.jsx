@@ -6,7 +6,7 @@ import Dashboard from './components/Dashboard'
 import LiveMarkets from './assets/dashboard-images/LiveMarkets.png'
 import BTCPrices from './assets/dashboard-images/BTCprices.png'
 import Transactions from './assets/dashboard-images/Transactions.png'
-import Cardano from '.assets/dashboard-images/cardano.png'
+
 
 
 function App() {
