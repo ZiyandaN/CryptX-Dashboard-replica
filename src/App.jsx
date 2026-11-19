@@ -4,7 +4,7 @@ import Sidebar from './components/Sidebar'
 import Navbar from './components/Navbar'
 import Dashboard from './components/Dashboard'
 import LiveMarkets from './assets/dashboard-images/LiveMarkets.png'
-import BTCPrices from './assets/dashboard-images/BTCPrices.png'
+import BTCPrices from './assets/dashboard-images/BTCprices.png'
 import Transactions from './assets/dashboard-images/Transactions.png'
 
 
